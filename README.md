@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Production [here](https://oleggap.github.io/goit-react-hw-04-pet-store/).
 
 ## Available Scripts
 
