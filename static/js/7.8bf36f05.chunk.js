@@ -1,0 +1,2 @@
+(window["webpackJsonpgoit-react-hw-04-pet-store"]=window["webpackJsonpgoit-react-hw-04-pet-store"]||[]).push([[7],{37:function(e,t,n){"use strict";n.r(t);var a=n(0),r=n.n(a);t.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement("div",{style:{fontSize:"70px",fontFamily:"Open Sans",textAlign:"center",marginTop:"100px"}},"404 - PAGE NOT FOUND"))}}}]);
+//# sourceMappingURL=7.8bf36f05.chunk.js.map

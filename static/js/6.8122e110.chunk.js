@@ -1,0 +1,2 @@
+(window["webpackJsonpgoit-react-hw-04-pet-store"]=window["webpackJsonpgoit-react-hw-04-pet-store"]||[]).push([[6],{29:function(e,o,t){e.exports={homeContainer:"Home_homeContainer__2YwkZ"}},33:function(e,o,t){"use strict";t.r(o);var n=t(0),a=t.n(n),r=t(29),i=t.n(r);o.default=function(){return a.a.createElement("div",{className:i.a.homeContainer},"Welcome to Paws online store!")}}}]);
+//# sourceMappingURL=6.8122e110.chunk.js.map

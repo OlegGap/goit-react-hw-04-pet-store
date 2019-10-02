@@ -1,0 +1,1 @@
+{"version":3,"sources":["Home.module.css"],"names":[],"mappings":"AAAA,2BACE,UAAW,CACX,YAAa,CACb,iBAAkB,CAClB,qBAAwB,CACxB,cAAe,CACf,iBACF","file":"6.a192c09c.chunk.css","sourcesContent":[".homeContainer {\n  width: 100%;\n  height: 500px;\n  line-height: 500px;\n  font-family: 'Open Sans';\n  font-size: 45px;\n  text-align: center;\n}\n"]}
