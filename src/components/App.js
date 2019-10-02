@@ -18,6 +18,7 @@ function App() {
         <Route path={routes.ABOUT} component={AboutPage} />
         <Route exact path={routes.PETS} component={PetsPage} />
         <Route path={`${routes.PETS}/:articleId`} component={PetPage} />
+        <Route path={routes.ERROR} component={NotFoundPage} />
         <Route component={NotFoundPage} />
       </Switch>
     </>

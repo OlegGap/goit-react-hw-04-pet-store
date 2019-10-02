@@ -1,0 +1,33 @@
+.petContainer {
+  width: 80%;
+  margin: 0 auto;
+}
+.buttonReturn {
+  width: 120px;
+  height: 40px;
+  background: rgb(70, 69, 69);
+  font-size: 20px;
+  color: #fff;
+  margin: 50px 0 30px 0;
+}
+.petWrapper {
+  display: flex;
+  flex-direction: row;
+  margin: 30px 0;
+}
+.petInfoWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  font-size: 20px;
+  font-family: 'Open Sans';
+  line-height: 50px;
+}
+.petImage {
+  width: 50%;
+}
+.description {
+  font-size: 16px;
+
+  font-family: 'Open Sans';
+}

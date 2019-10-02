@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './About.module.css';
 
-const Navigation = () => {
+const About = () => {
   return (
     <>
       <div className={styles.fuctsContainer}>
@@ -50,4 +50,4 @@ const Navigation = () => {
     </>
   );
 };
-export default Navigation;
+export default About;

@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types';
 import styles from './Pets.module.css';
 import petsDB from '../../../db/pets.json';
 
-const Navigation = ({ match, location }) => {
-  //   const { url } = match;
+const Pets = ({ match, location }) => {
   return (
     <>
       <h2 style={{ margin: '40px 0 40px 50px' }}>Available pets</h2>
@@ -26,4 +26,10 @@ const Navigation = ({ match, location }) => {
     </>
   );
 };
-export default Navigation;
+
+Pets.propTypes = {
+  match: PropTypes.objectOf(PropTypes.any).isRequired,
+  location: PropTypes.objectOf(PropTypes.any).isRequired,
+};
+
+export default Pets;
